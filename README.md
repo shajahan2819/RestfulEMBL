@@ -4,6 +4,7 @@ RestfulEMBL
 # To build and run:
 1. Build: mvn clean install
 2. Run: mvn spring-boot:run
+3. Test : mvn clean test
 
 #To use Docker:
 Once the application downloaded from the Git Repository, use the command prompt and go to the project location, then execute the following commands one by one.
